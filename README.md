@@ -1,6 +1,7 @@
 <h1> Desafio: Aprenda na Prática Programação Orientada a Objetos</h1>
 
-    O objetivo principal é colocar em prática umas das principais ferramentas da OO: <strong>ABSTRAÇÃO, ENCAPSULAMENTO, HERANÇA E POLIMORFISMO,</strong> através de um projeto Java. </p>
+<p>O objetivo principal é colocar em prática umas das principais ferramentas da OO: <strong>ABSTRAÇÃO, ENCAPSULAMENTO, HERANÇA E POLIMORFISMO,</strong> através de um projeto Java. </p>
+    
 
 <h2>Passo-a-Passo</h2>
 
@@ -40,10 +41,11 @@ Habilidade de concentrar-se nos aspectos essenciais de um domínio, ignorando ca
 
 <p>Capacidade de um objeto poder ser referenciado de várias formas. Cuidado, polimorfismo não quer dizer que o objeto fica se transformando, muito pelo contrário, um objeto nasce de um tipo e morre daquele tipo, o que pode mudar é a maneira como nos referimos a ele. A capacidade de tratar objetos criados a partir das classes específicas como objetos de uma classe genérica é chamada de polimorfismo.</p>
 <br>
-<h2 align="center"> ‼️ CONCEITOS FUNDAMENTAIS POO ‼️ </h2>
-<p>
+<h2 align="center">CONCEITOS FUNDAMENTAIS POO</h2>
+
 <h3>DOMÍNIO:</h3> 
 Domínio da aplicação, também conhecida como camada de negócio ou de objetos de negócio, é aquela onde estão localizadas as classes que fazem parte do domínio do problema, ou seja, classes correspondentes a objetos que fazem parte da descrição do problema.
+
 
 <h3>CLASSE: </h3> 
 Um elemento do código que tem a função de representar objetos do mundo real. Dentro dela é comum declararmos atributos e métodos, que representam, respectivamente, as características e comportamentos desse objeto.
@@ -63,9 +65,7 @@ Objeto em ciência da computação, é uma referência a um local da memória qu
 
 <h3>INSTÂNCIA: </h3>
 Uma instância de uma classe é um novo objeto criado dessa classe, com o operador new. Instanciar uma classe é criar um novo objeto do mesmo tipo dessa classe. Uma classe somente poderá ser utilizada após ser instanciada.
-
-</p>
-    
+   
 ------------
 <br>
 
@@ -117,6 +117,6 @@ Vejamos alguns Subparadigmas do Paradigma Declarativo e exemplos linguagens de p
 <br>
 🔹 2.1 Paradigma Funcional: Lisp e Haskell<br>
 🔹 2.2 Paradigma Lógico: Prolog<br>
-</p>
+
 
 
